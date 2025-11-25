@@ -72,7 +72,7 @@ En el archivo `cleaning_dataframe1.sql` se realizó:
 - Creación de la columna derivada `rental_duration` con `DATEDIFF()`
 
 ## ✔ Exportación del DataFrame limpio  
-El resultado final fue exportado como `df_clientes_limpio.csv` desde MySQL Workbench / DBeaver.
+El resultado final fue exportado como `df_clientes_limpio.csv` desde MySQL Workbench.
 
 ---
 
