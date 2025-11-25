@@ -66,7 +66,7 @@ En el archivo `cleaning_dataframe1.sql` se realizó:
 
 - Estandarización de texto con `LOWER()` y `TRIM()`
 - Eliminación de alquileres sin pago o sin devolución
-- Filtrado de montos de pago positivos
+- Filtrado de cantidades de pago positivos
 - Eliminación de registros con `payment_id` o `rental_id` nulos
 - Validación de consistencia temporal (`rental_date < return_date`)
 - Creación de la columna derivada `rental_duration` con `DATEDIFF()`
